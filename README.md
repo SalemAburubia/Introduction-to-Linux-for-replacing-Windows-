@@ -1,5 +1,6 @@
-# Introduction-to-Linux-for-replacing-Windows-
-A complete beginner friendly guide to us Linux as a daily driver
+# Introduction-to-Linux-for-replacing-Windows
+A complete beginner friendly guide to us Linux as a daily driver.
+The guide contains some of the main concepts and focuces on the practical aspect of using Fedora KDE Linux.
 
 ### Linux intro:
 
@@ -57,7 +58,7 @@ A Linux distribution bundles the Linux kernel with a collection of software, suc
 - others:
 
 ------------------------------------------------------------------------
-### First time installation: 
+### First time installation of Fedora KDE: 
 
 - installing fedora
 - enabling 3rd party packages
